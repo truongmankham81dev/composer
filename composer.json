@@ -1,0 +1,18 @@
+{
+    "name": "truongmankham81dev/composer",
+    "authors": [
+        {
+            "name": "truongmankham81dev",
+            "email": "truongmankham81dev@gmmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "truongmankham81dev\\": ""
+        }
+    }
+}
