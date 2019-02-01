@@ -13,6 +13,7 @@
     "autoload": {
         "psr-4": {
             "truongmankham81dev\\SayHello\\": "src/"
+            "truongmankham81dev\\SayHello1\\": "src1/"
         }
     }
 }
