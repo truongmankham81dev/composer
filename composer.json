@@ -12,7 +12,8 @@
     },
     "autoload": {
         "psr-4": {
-            "truongmankham81dev\\": ""
+            "truongmankham81dev\\": "src/"
+            "truongmankham81dev\\": "src1/"
         }
     }
 }
