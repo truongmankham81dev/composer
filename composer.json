@@ -6,12 +6,6 @@
             "email": "truongmankham81dev@gmmail.com"
         }
     ],
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/truongmankham81dev/composer1"
-    }
-  ],
   "minimum-stability": "dev",
   "require": {
         "php": ">=5.3.0",
