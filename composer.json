@@ -9,7 +9,7 @@
   "minimum-stability": "dev",
   "require": {
         "php": ">=5.3.0",
-        "truongmankham81dev/composer": "dev-master"
+        "truongmankham81dev/composer1": "dev-master"
    },
    "autoload": {
         "psr-4": {
