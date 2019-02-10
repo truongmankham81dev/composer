@@ -4,7 +4,7 @@ class SayHello
 {
     public static function world()
     {
-        return 'Hello World, Composer Branch Test!!!!<br />';
+        return 'Hello World, Composer Test branch!!!!<br />';
     }
 }
 ?>
