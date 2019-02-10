@@ -1,5 +1,5 @@
 <?php
-namespace truongmankham81dev\SayHello;
+namespace truongmankham81dev\SayHellot;
 class SayHello
 {
     public static function world()
