@@ -6,11 +6,18 @@
             "email": "truongmankham81dev@gmmail.com"
         }
     ],
-    "require": {
+      "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/truongmankham81dev/composer1"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
         "php": ">=5.3.0",
         "truongmankham81dev/composer1": "dev-master"
-    },
-    "autoload": {
+   },
+   "autoload": {
         "psr-4": {
             "truongmankham81dev\\SayHello\\": "src/",
             "truongmankham81dev\\SayHello1\\": "src1/"
