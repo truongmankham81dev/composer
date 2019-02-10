@@ -4,7 +4,7 @@ class SayHello
 {
     public static function world()
     {
-        return 'Hello World, Composer Master branches!';
+        return 'Hello World, Composer Master branches!!!<br />';
     }
 }
 ?>
